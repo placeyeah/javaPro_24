@@ -3,13 +3,11 @@ package days01;
 public class Ex02 {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
 		System.out.println("교육원 복습");
 		System.out.println("교육원 복습");
 		System.out.println("교육원 복습");
 		System.out.println("교육원 복습");
 
-=======
 		System.out.println("복습");
 		System.out.println("복습");
 		
